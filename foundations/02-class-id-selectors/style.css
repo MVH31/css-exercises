@@ -1,0 +1,22 @@
+.bgclass {
+    background-color: hotpink;
+    font-size: 16px;
+}
+
+.bgcooler {
+    background-color: hotpink;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#idd {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#secondid {
+    background-color: rgb(66, 229, 66);
+    font-weight: bold;
+    font-size: 24px;
+}
